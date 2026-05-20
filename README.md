@@ -1,5 +1,10 @@
 ## Hello Git
 
+-- git init
+-- git status
+-- git add ""
+-- git add ./
+-- git commit -m "Your Commit Message"
 -- git log
 -- git checkout ""
 -- git checkout main
