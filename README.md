@@ -10,6 +10,12 @@
 -- git checkout main
 -- git checkout -f main
 
+-- git branch "branch-name"
+-- git checkout "branch-name"
+-- git checkout main
+-- git checkout -b "feature-branch-name"
+-- git branch new-branch-name source-branch
+
 
 ## Github
 -- git branch -M main
